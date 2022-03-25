@@ -1,2 +1,2 @@
-Programmer and former cognitive scientist, interested in privacy and cryptography.
-![](http://173.230.154.136/img/github-profile.png)
+Experienced software engineer, former cognitive scientist, interested in machine learning, privacy and security.
+![](https://bunnylab.net/img/github-profile.png)
